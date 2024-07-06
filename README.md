@@ -8,15 +8,20 @@ You will be using a dataset that contains house sale prices for King County, inc
 ## The project is structured into five modules:
 
 ***Importing Data:*** 
-Load the necessary libraries and the dataset, and display its structure and data types.\n
+Load the necessary libraries and the dataset, and display its structure and data types.
+
 ***Data Wrangling:*** 
 Clean the data by handling missing values and removing unnecessary columns to prepare the dataset for analysis.
+
 ***Exploratory Data Analysis:*** 
 Generate descriptive statistics and create visualizations to understand the relationships between different variables.
+
 ***Model Development:*** 
 Develop a linear regression model to predict house prices using the cleaned and processed data.
+
 ***Model Evaluation and Refinement:*** 
 Evaluate the model using cross-validation techniques and refine it by adding or removing features to improve its performance.
+
 
 By completing this project, you will gain practical experience in data wrangling, exploratory data analysis, and predictive modeling using linear regression. The ultimate goal is to develop a reliable model to predict house prices based on various features, which can be used by the Real Estate Investment Trust to make data-driven investment decisions.
 

@@ -8,7 +8,7 @@ You will be using a dataset that contains house sale prices for King County, inc
 ## The project is structured into five modules:
 
 ***Importing Data:*** 
-Load the necessary libraries and the dataset, and display its structure and data types.
+Load the necessary libraries and the dataset, and display its structure and data types.\n
 ***Data Wrangling:*** 
 Clean the data by handling missing values and removing unnecessary columns to prepare the dataset for analysis.
 ***Exploratory Data Analysis:*** 
